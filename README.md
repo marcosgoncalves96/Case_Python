@@ -1,4 +1,4 @@
-# Case_Pyspark
+# Case_Python
 
 Case para apresentação das das técnicas estudadas no programa **JumpStart** (Turma 04 - 2024)
 
@@ -13,9 +13,13 @@ Durante o programa, adquiri conhecimentos fundamentais em **Storytelling, alfabe
 
 ## Arquivos deste repositório
 
-Neste repositório, estão disponíveis os arquivos referentes ao **Case de PySpark**. O objetivo principal foi **comparar a performance entre PySpark e Pandas**. Para isso, foram replicadas as etapas de análise exploratória e tratamento de dados previamente realizadas com a **biblioteca Pandas**. Além disso, uma das questões do case Pandas foi utilizada para complementar essa comparação de desempenho.
+Neste repositório, estou disponibilizando os arquivos referentes ao **Case de Python**, no qual utilizei a biblioteca **Pandas** e os arquivos extraídos diretamente do site do IMDb. 
+Foi uma grande oportunidade para poder organizar de forma clara um notebook com um um alto volume de dados e de questões. A fim de facilitar futuras visualizações, foi realizado da seguinte forma:
 
-**Conclusão:** PySpark se destaca por sua alta performance na **análise de grandes volumes de dados**. No entanto, o Pandas continua sendo extremamente útil para **análises detalhadas** e em menor escala. Assim, a grande oportunidade é **combinar o uso das duas ferramentas** sempre que possível, concentrando-se no principal objetivo: **resolver o problema**.
+- Dicionário dos dados (do que se trata cada observação nas bases, tipo de dados, etc)
+- Importação das biliotecas e arquivos 
+- Análise exploratória e tratamento dos dados (Todo processo realizado antes de iniciar as resoluções das questões)
+
 
 
 .
